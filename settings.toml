@@ -1,0 +1,13 @@
+[project]
+app_name          = "Pizza Tower"
+main_keyword      = "Pizza Tower game"
+short_description = "Pizza Tower game is a fast-paced platformer featuring unique art, creative levels, and a focus on speedrunning mechanics"
+meta_description  = "Explore our comprehensive Pizza Tower game documentation site featuring a detailed download guide, an overview of game features, and an FAQ to enhance your gaming experience."
+release_date      = "2026-04-08"
+
+additional_pages = [
+  "Pizza Tower nintendo switch",
+  "Pizza Tower 3D",
+  "Pizza Tower PS5",
+  "Pizza Tower original game",
+]
